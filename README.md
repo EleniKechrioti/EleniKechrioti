@@ -15,5 +15,3 @@
 
 ## Languages
   >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleniKechrioti&layout=compact&theme=dracula&border_radius=20&text_color=94e2d5&bg_color=1e1e2e)
-
-<img src="https://komarev.com/ghpvc/?username=EleniKechrioti&style=flat-square&color=blue" alt=""/>
