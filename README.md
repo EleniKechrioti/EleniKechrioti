@@ -7,6 +7,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40">
    <img title="CSS" alt="Alt text" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> 
    <img title="SQL" alt="Alt text" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
 </div>
 
 ## 🔥 My Stats
