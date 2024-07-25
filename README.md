@@ -3,7 +3,7 @@ Currently a Computer Science undergrad at Athens University of Economics and Bus
 
 
 
-## ⌨ Most programming (or non) languages used in free time & projects
+## ⌨ Programming languages, tools & frameworks used in free time & projects
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
