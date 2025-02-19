@@ -1,5 +1,5 @@
 ### Eleni Kechrioti, 21y/o in Greece
-Currently a Computer Science undergrad at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>). I'm mostly interested in Cyber Security and AI. Connect with me <a href="www.linkedin.com/in/eleni-kechrioti-092137239" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
+Currently a Computer Science undergrad at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>). I'm mostly interested in Cyber Security and AI. Connect with me <a href="https://www.linkedin.com/in/eleni-kechrioti-092137239" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
 
 
 
