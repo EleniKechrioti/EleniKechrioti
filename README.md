@@ -17,6 +17,8 @@ Currently a Computer Science undergrad at Athens University of Economics and Bus
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="36" height="36"/> </a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="36" height="36"/> </a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="my SQL" width="40" height="40"/> </a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"> </a>
+  
   
 </div>
 
@@ -25,10 +27,13 @@ Currently a Computer Science undergrad at Athens University of Economics and Bus
   <a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDB" alt="MongoDB" width="36" height="36"/ </a>
   <a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NodeJS" alt="NodeJS" width="36" height="36"/> </a>
+
+  <a href="https://expressjs.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg"  title="ExpressJS" alt="ExpressJS" width="36" height="36"/> </a>
   <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="60" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg" alt="tensor flow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask"  width="40" height="40"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter"  width="40" height="40"/></a>
   
 </div>
 
@@ -38,12 +43,19 @@ Currently a Computer Science undergrad at Athens University of Economics and Bus
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/> </a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> </a>
+  
   <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png" title="Github" alt="Github" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"  title="Unity" alt="Unity" width="40" height="40"/> </a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg"  title="Kali" alt="Kali" width="40" height="40"/> </a>
   <a href="https://nmap.org/" target="_blank"><img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="NMAP"  width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase"  width="40" height="40"/></a>
+  
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira"  width="40" height="40"/></a>
+  
+  
   <!--<a href="https://www.snort.org/" target="_blank"><img src="https://cdn.brandfetch.io/idvXNO6yQw/w/174/h/95/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Snort"  width="74" height="40"/></a>-->
 </div>
 <br>
