@@ -1,7 +1,10 @@
 ### Eleni Kechrioti, 21y/o in Greece
 Currently a Computer Science undergrad at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>). I'm mostly interested in Cyber Security and AI. Connect with me <a href="https://www.linkedin.com/in/eleni-kechrioti-092137239" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
 
-
+Take a look at my 
+  <a href="https://elenikechrioti.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Portfolio Badge"/>
+  </a>
 
 ## ⌨ Programming languages, tools & frameworks used in free time & projects
 
