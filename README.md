@@ -1,5 +1,9 @@
-### Eleni Kechrioti, 21y/o in Greece
-Currently a Computer Science undergrad at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>). I'm mostly interested in Cyber Security and AI. Connect with me <a href="https://www.linkedin.com/in/eleni-kechrioti-092137239" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
+### Eleni Kechrioti, 22y/o in Greece
+I am currently pursuing my Master's (MSc) in Information Systems Security & Development at Athens University of Economics and Business (<a href="https://mscis.cs.aueb.gr/en/normal/home">AUEB</a>). I'm mostly interested in Cyber Security and AI. I enjoy digging into how systems break, how to protect them, and how to trace digital evidence. 
+
+I recently completed my BSc in Computer Science at <a href="https://aueb.gr/" >AUEB</a>, where I completed my thesis on evaluating blockchain's role in enhancing Capability-Based access control in IIoT environments.
+
+Connect with me <a href="https://www.linkedin.com/in/eleni-kechrioti" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
 
 Take a look at my 
   <a href="https://elenikechrioti.github.io/Portfolio/" target="_blank">
