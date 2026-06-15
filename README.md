@@ -33,6 +33,7 @@ I am a Computer Science graduate and a passionate enthusiast in cybersecurity an
 
 <h3 align="center">Cybersecurity, Forensics & SIEM</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=for-the-badge&logo=kali-linux&logoColor=white" title="Kali Linux" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Penetration_Testing-1A1A1A?style=for-the-badge&logo=hackthebox&logoColor=white" title="Penetration Testing" alt="Pentest" />
   <img src="https://img.shields.io/badge/Cryptography-1A1A1A?style=for-the-badge&logo=letsencrypt&logoColor=white" title="Cryptography" alt="Cryptography" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-1A1A1A?style=for-the-badge&logo=owasp&logoColor=white" title="OWASP ZAP" alt="OWASP ZAP" />
@@ -83,7 +84,6 @@ I am a Computer Science graduate and a passionate enthusiast in cybersecurity an
 
 <h3 align="center">Development Tools</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=for-the-badge&logo=kali-linux&logoColor=white" title="Kali Linux" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-1A1A1A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" />
